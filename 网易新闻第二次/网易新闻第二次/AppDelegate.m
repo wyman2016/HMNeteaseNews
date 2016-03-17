@@ -1,8 +1,8 @@
 //
 //  AppDelegate.m
-//  网易新闻
+//  网易新闻第二次
 //
-//  Created by wyman on 16/3/13.
+//  Created by wyman on 16/3/17.
 //  Copyright © 2016年 wyman. All rights reserved.
 //
 
@@ -18,7 +18,6 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     return YES;
-    
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application {

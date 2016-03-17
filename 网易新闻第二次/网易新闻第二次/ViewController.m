@@ -1,8 +1,8 @@
-    //
-//  ViewController.m
-//  网易新闻
 //
-//  Created by wyman on 16/3/13.
+//  ViewController.m
+//  网易新闻第二次
+//
+//  Created by wyman on 16/3/17.
 //  Copyright © 2016年 wyman. All rights reserved.
 //
 
@@ -16,10 +16,12 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSURLSession
     // Do any additional setup after loading the view, typically from a nib.
 }
 
-
+- (void)didReceiveMemoryWarning {
+    [super didReceiveMemoryWarning];
+    // Dispose of any resources that can be recreated.
+}
 
 @end
